@@ -1,0 +1,21 @@
+{
+  "name": "m01l03-exercise",
+  "version": "1.0.0",
+  "description": "M01L03",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.23.0",
+    "typescript": "5.2.2"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
